@@ -1,0 +1,21 @@
+body{
+    background-color:#f5d9d5;
+}
+#mainNav{
+    font-size:1.2rem;
+}
+
+#mainNav .navbar-brand, #mainNav .nav-link:hover{
+    color:#ea1c2c;
+}
+#mainNav .nav-link{
+    color:#ffffff;
+}
+#header h2{
+    color:#ffffff;
+    font-size:3rem;
+    font-weight:100;
+}
+#header span{
+    color:#ea1c2c;
+}

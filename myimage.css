@@ -1,0 +1,29 @@
+body{
+    margin:0px;
+}
+.container{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+h1{
+    font-family: fantasy;
+    font-size:3em;
+    text-align:center;
+    padding:0px 20px;
+    border-bottom: 2px solid #ff2ba1;
+    border-right: 2px solid #ff2ba1;
+    width: 40%;
+    box-shadow: 7px 7px 8px #5e5e5e;
+}
+img{
+    width: 380px;
+    height: 300px;
+    margin:10px;
+    transition: all 1s;
+    
+}
+img:hover{
+    transform:scale(1.1)
+}
